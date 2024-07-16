@@ -1,0 +1,13 @@
+:root {
+    --color-01: #F6B17A;
+    --color-02: #A25772;
+    --color-03: #fff;
+    --color-04: #000000;
+    --color-05: #424769;
+}
+
+
+body {
+    background-color: var(--color-05);
+    font-family: "Benne", serif;
+}

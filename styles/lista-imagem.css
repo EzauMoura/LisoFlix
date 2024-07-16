@@ -1,0 +1,11 @@
+.lista-imagem {
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    padding-top: 100px;
+    padding-top: 50px;
+}
+
+.lista-imagem .wrapper-img {
+    margin-bottom: 50px;
+}

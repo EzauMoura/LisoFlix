@@ -1,0 +1,21 @@
+.wrapper-imagem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    transition: 211ms transform ease-in-out;
+}
+
+.wrapper-imagem:hover {
+    transform: scale(1.1);
+    transition: 385ms transform cubic-bezier(0.42, 0, 0.71, 1.9);
+}
+
+.wrapper-imagem .img {
+    margin-bottom: 10px;
+}
+
+.wrapper-imagem .caption {
+    width: 186px;
+    text-align: center;
+}

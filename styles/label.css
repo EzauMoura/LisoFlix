@@ -1,0 +1,8 @@
+label {
+    display: block;
+    font-family: "Zilla Slab", serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: var(--color-03);
+    text-align: center;   
+}

@@ -1,0 +1,12 @@
+.img {
+    width: 161px ;
+    height: 240px ;
+    border: 2px solid var(--color-01);
+    box-shadow: 4px 4px 0px var(--color-04);
+}
+
+
+#alura {
+    height: 38px;
+    width: 31px;
+}

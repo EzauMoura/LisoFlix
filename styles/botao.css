@@ -1,0 +1,20 @@
+button {
+    width: 420px;
+    height: 55px;
+    border-radius: 9px;
+    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--color-02);
+    font-family: "Benne", serif ;
+    font-size: 21px;
+    color: var(--color-03);
+    cursor: pointer;
+    box-shadow: 4px 4px 0px var(--color-04);
+    transition: transform 200ms ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.03);
+}
